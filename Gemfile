@@ -72,3 +72,5 @@ gem 'bootstrap-sass', '3.3.7'
 gem 'bcrypt',         '3.1.11'
 # integration test
 gem 'rails-controller-testing'
+# jquery
+gem 'jquery-rails'
