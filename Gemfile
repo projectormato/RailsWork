@@ -74,3 +74,5 @@ gem 'bcrypt',         '3.1.11'
 gem 'rails-controller-testing'
 # jquery
 gem 'jquery-rails'
+# create test users
+gem 'faker'
