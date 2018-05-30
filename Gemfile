@@ -76,3 +76,6 @@ gem 'rails-controller-testing'
 gem 'jquery-rails'
 # create test users
 gem 'faker'
+# pagination
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
