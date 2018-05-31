@@ -65,6 +65,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # production
 group :production do
   gem 'pg', '0.20.0'
+  gem 'fog'
 end
 # design
 gem 'bootstrap-sass', '3.3.7'
@@ -79,3 +80,6 @@ gem 'faker'
 # pagination
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
+# upload image
+gem 'carrierwave'
+gem 'mini_magick'
